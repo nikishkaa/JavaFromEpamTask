@@ -34,6 +34,10 @@ public class Main {
             num *= -1;
         }
 
+        if (num == 0) {
+            return 1;
+        }
+
         int count = 0;
 
         while (num > 0) {
