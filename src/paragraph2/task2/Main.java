@@ -29,7 +29,7 @@ public class Main {
             return 1;
         }
 
-        int length = 0;
+        int length = 1;
 
         while (num > 0) {
             num /= 10;
