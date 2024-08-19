@@ -39,6 +39,7 @@ public class Main {
         return length;
     }
 
+
     public static String getUserUI(int[] array) {
         StringBuilder builder = new StringBuilder();
         builder.append("Numbers sort by min -> max length: ");
